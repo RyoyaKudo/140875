@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ハナコの動画サイト</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <div class="logo">
+    <img src="https://imgur.com/BHsgsGu" alt="ロゴ">
+  </div>
+  <div class="youtube-video">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/watch?v=NzzF-1zj9BE&t=3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</body>
+</html>

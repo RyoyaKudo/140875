@@ -1,0 +1,11 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.logo {
+  text-align: center;
+  padding: 20px;
+}
+.youtube-video {
+  max-width: 560px;
+  margin: 0 auto;
+}
